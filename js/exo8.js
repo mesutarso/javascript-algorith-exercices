@@ -1,0 +1,1 @@
+var nombre = prompt("Entrer le nombre dont vous voulez connaitre la factorielle");
